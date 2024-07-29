@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daydayup.iml" filepath="$PROJECT_DIR$/daydayup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/designmodel/designmodel.iml" filepath="$PROJECT_DIR$/designmodel/designmodel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/middle/middle.iml" filepath="$PROJECT_DIR$/middle/middle.iml" />
     </modules>
   </component>
 </project>

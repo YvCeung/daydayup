@@ -6,16 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="algorithm" />
         <module name="designmodel" />
+        <module name="algorithm" />
         <module name="middle" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="algorithm" target="1.8" />
-      <module name="daydayup" target="1.8" />
-      <module name="designmodel" target="1.8" />
-      <module name="middle" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

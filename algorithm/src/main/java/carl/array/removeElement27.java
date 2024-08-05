@@ -1,4 +1,4 @@
-package array;
+package carl.array;
 
 public class removeElement27 {
     public static void main(String[] args) {

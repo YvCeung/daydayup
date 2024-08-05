@@ -1,4 +1,4 @@
-package linkNode;
+package carl.link;
 
 public class ListNode {
     //结点的值

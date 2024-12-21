@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: engine
+  config:
+    import: classpath:cache.yml

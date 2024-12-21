@@ -3,3 +3,5 @@ spring:
     name: engine
   config:
     import: classpath:cache.yml
+server:
+  port: 6000

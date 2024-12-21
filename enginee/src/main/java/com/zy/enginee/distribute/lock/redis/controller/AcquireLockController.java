@@ -19,9 +19,14 @@ public class AcquireLockController {
     @Autowired
     private SetNxLock setNxLock;
 
+    @GetMapping("/test")
+    public String test(){
+        return "hello world";
+    }
+
     @GetMapping("/getSetNxLock")
     public String getSetNxLock(@RequestParam("key")String key){
-
+       return setNxLock.getLock(key) ? "success" : "fail";
     }
 
 }

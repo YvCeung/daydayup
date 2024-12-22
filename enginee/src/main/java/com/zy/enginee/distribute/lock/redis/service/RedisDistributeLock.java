@@ -1,4 +1,4 @@
-package com.zy.enginee.distribute.lock.redis.service.impl;
+package com.zy.enginee.distribute.lock.redis.service;
 
 /**
  * @Description 用Redis实现分布式锁

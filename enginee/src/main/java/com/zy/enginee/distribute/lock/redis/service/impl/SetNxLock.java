@@ -1,7 +1,7 @@
 package com.zy.enginee.distribute.lock.redis.service.impl;
 
 import com.zy.enginee.distribute.lock.redis.enums.LockWayEnum;
-import lombok.extern.slf4j.Slf4j;
+import com.zy.enginee.distribute.lock.redis.service.RedisDistributeLock;
 import org.redisson.api.RBucket;
 import org.redisson.api.RedissonClient;
 import org.slf4j.Logger;
